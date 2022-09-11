@@ -1,0 +1,4 @@
+my:
+  greeting: Welcome to GreatLearning
+  list:
+    values: apple,banana,mango
